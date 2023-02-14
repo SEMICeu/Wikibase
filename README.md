@@ -16,6 +16,12 @@ Specify a language, a title, a description, and optional aliases. The QID is aut
 
 ![Q1](/images/wb_q1.png)
 
+At this stage, the new item has no statements attached to it. You can add some by clicking "add statements" à the bottom right:
+
+![Add statement](/images/wb_add_statement.png)
+
+First select the property by typing its name or PID. (If the property does not exist yet, you need to create it first on <https://wikibase.semic.eu/wiki/Special:NewProperty>.) Then specify the value which can be of various types (QID, number, string...) and an optional qualifier or reference, and finally save.
+
 ## Batch import with OpenRefine
 
 ## Automated import with Pywikibot
