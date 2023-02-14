@@ -12,6 +12,10 @@ You can access a list of all available actions on <https://wikibase.semic.eu/wik
 
 ![New Item](/images/wb_new_item.png)
 
+Specify a language, a title, a description, and optional aliases. The QID is auto-incremented and the resulting item can be accessed on <https://wikibase.semic.eu/wiki/Item:Q1> (replace Q1 with the generated QID):
+
+![Q1](/images/wb_q1.png)
+
 ## Batch import with OpenRefine
 
 ## Automated import with Pywikibot
