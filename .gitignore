@@ -1,3 +1,4 @@
 user-password.py
 *.pyc
 venv
+data
