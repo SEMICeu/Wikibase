@@ -1,6 +1,6 @@
 # Basic configuration to access the Wikibase
 
-user_families_paths = ['./config']
+user_families_paths = ['config']
 mylang = "wikidata"
 family = "wikidata"
 usernames['my']['my'] = u'Admin'
