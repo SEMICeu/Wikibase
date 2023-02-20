@@ -1,1 +1,3 @@
 pywikibot==8.0.0
+jupyter==1.0.0
+SPARQLWrapper==2.0.0
