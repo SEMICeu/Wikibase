@@ -1,7 +1,9 @@
 user-password.py
+
 *.pyc
+*.lwp
+*.ctrl
+
 venv
 data
 apicache-py3
-pywikibot.lwp
-throttle.ctrl
