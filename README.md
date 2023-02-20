@@ -20,7 +20,11 @@ At this stage, the new item has no statements attached to it. You can add some b
 
 ![Add statement](/images/wb_add_statement.png)
 
-First select the property by typing its name or PID. (If the property does not exist yet, you need to create it first on <https://wikibase.semic.eu/wiki/Special:NewProperty>.) Then specify the value which can be of various types (QID, number, string...) and an optional qualifier or reference, and finally save.
+First select the property by typing its name or PID. If the property does not exist yet, you need to create it first on <https://wikibase.semic.eu/wiki/Special:NewProperty>:
+
+![New Property](/images/wb_new_prop.png)
+
+Then specify the value which can be of various types (QID, number, string...) and an optional qualifier or reference, and finally save.
 
 ## Batch import with OpenRefine
 
