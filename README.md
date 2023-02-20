@@ -29,3 +29,5 @@ Then specify the value which can be of various types (QID, number, string...) an
 ## Batch import with OpenRefine
 
 ## Automated import with Pywikibot
+
+See the dedicated [Jupyter notebook](https://colab.research.google.com/github/SEMICeu/Wikibase/blob/main/explore.ipynb).
