@@ -2,3 +2,6 @@ user-password.py
 *.pyc
 venv
 data
+apicache-py3
+pywikibot.lwp
+throttle.ctrl
