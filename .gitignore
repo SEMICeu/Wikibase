@@ -5,5 +5,4 @@ user-password.py
 *.ctrl
 
 venv
-data
 apicache-py3
