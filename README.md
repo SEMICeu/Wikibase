@@ -6,7 +6,7 @@ Material for the SEMIC workshops on Wikidata and Wikibase
 
 A playground Wikibase instance is running on <https://wikibase.semic.eu/>. Credentials will be provided during the workshop.
 
-## Manual import
+## Manual ingestion from the browser
 
 You can access a list of all available actions on <https://wikibase.semic.eu/wiki/Special:SpecialPages>. For instance, you can create a new item manually on <https://wikibase.semic.eu/wiki/Special:NewItem>:
 
@@ -26,8 +26,10 @@ First select the property by typing its name or PID. If the property does not ex
 
 Then specify the value which can be of various types (QID, number, string...) and an optional qualifier or reference, and finally save.
 
-## Batch import with OpenRefine
+## Batch ingestion with OpenRefine
 
-## Automated import with Pywikibot
+See [this tutorial](refine.md)
+
+## Automated ingestion with Pywikibot
 
 See the dedicated [Jupyter notebook](https://colab.research.google.com/github/SEMICeu/Wikibase/blob/main/explore.ipynb).
