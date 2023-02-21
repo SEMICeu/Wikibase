@@ -1,0 +1,41 @@
+{
+    "version": "1.0",
+    "mediawiki": {
+      "name": "SEMIC Wikibase",
+      "root": "https://wikibase.semic.eu/wiki/",
+      "main_page": "https://wikibase.semic.eu/wiki/Main_Page",
+      "api": "https://wikibase.semic.eu/w/api.php"
+    },
+    "wikibase": {
+      "site_iri": "https://wikibase.semic.eu/entity/",
+      "maxlag": 5,
+      "max_edits_per_minute": 60,
+      "tag": "openrefine-${version}",
+      "properties": {
+        "instance_of": "P1",
+        "subclass_of": "P2"
+      },
+    "entity_types": {
+      "item": {
+         "site_iri": "http://www.wikidata.org/entity/",
+         "reconciliation_endpoint": "https://wikidata.reconci.link/${lang}/api",
+         "mediawiki_api": "https://www.wikidata.org/w/api.php"
+      },
+      "property": {
+         "site_iri": "http://www.wikidata.org/entity/",
+         "mediawiki_api": "https://www.wikidata.org/w/api.php"
+      },
+      "mediainfo": {
+         "site_iri": "https://wikibase.semic.eu/entity/",
+         "reconciliation_endpoint": "https://commonsreconcile.toolforge.org/${lang}/api"
+      }
+    },
+    "hide_structured_fields_in_mediainfo": false,
+    "editgroups": {
+      "url_schema": "([[:toollabs:editgroups-commons/b/OR/${batch_id}|details]])"
+    }
+  },
+  "reconciliation": {
+    "endpoint": "https://wikibase-semic.reconci.link/${lang}/api"
+  }
+}
