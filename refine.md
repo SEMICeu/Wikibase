@@ -49,3 +49,4 @@ For more details on reconciliation, see [this manual](https://openrefine.org/doc
 
 ## Ingestion
 
+OpenRefine can also be used to ingest data in a semi-automated way.
