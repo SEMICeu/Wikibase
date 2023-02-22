@@ -25,6 +25,9 @@ First select the property by typing its name or PID. If the property does not ex
 ![New Property](/images/wb_new_prop.png)
 
 Then back on the item page, specify the value which can be of various types (QID, number, string...) and an optional qualifier or reference, and finally save.
+For instance, we can specify that [DG CNECT](https://wikibase.semic.eu/wiki/Item:Q2) is an [instance of](https://wikibase.semic.eu/wiki/Property:P1) [Directorate-General](https://wikibase.semic.eu/wiki/Item:Q3):
+
+![instance of DG](/images/wb_dg.png)
 
 ## Batch ingestion with OpenRefine
 
