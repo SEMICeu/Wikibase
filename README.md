@@ -35,6 +35,12 @@ To avoid redefining existing concepts from scratch in your Wikibase, you can ins
 
 As this is technically more advanced, it will be demonstrated through a live demo. A graphical interface on top of WikibaseSync is also being developed.
 
+For instance, find a concept that is present in Wikidata, like [PwC](https://www.wikidata.org/wiki/Q488048), but not in the [EU Knowledge Graph](https://linkedopendata.eu/). To import this concept into the EU KG, simply use the following command:
+
+`python import_one.py Q488048`
+
+It will pull all statements from Wikidata and create a new item in the EU KG. The two items can then be kept in sync.
+
 ## Batch ingestion with OpenRefine
 
 See [this tutorial](refine.md).
