@@ -16,7 +16,7 @@ Specify a language, a title, a description, and optional aliases. The QID is aut
 
 ![Q1](/images/wb_q1.png)
 
-At this stage, the new item has no statements attached to it. You can add some by clicking "add statements" à the bottom right:
+At this stage, the new item has no statements attached to it. You can add some by clicking "add statements" at the bottom right:
 
 ![Add statement](/images/wb_add_statement.png)
 
@@ -28,6 +28,14 @@ Then back on the item page, specify the value which can be of various types (QID
 For instance, we can specify that [DG CNECT](https://wikibase.semic.eu/wiki/Item:Q2) is an [instance of](https://wikibase.semic.eu/wiki/Property:P1) [Directorate-General](https://wikibase.semic.eu/wiki/Item:Q3):
 
 ![instance of DG](/images/wb_dg.png)
+
+### Exercise
+
+Now generate your first triple by:
+
+1. creating two new items, one being the subject and the other the object
+2. inventing one new property (note: on Wikidata this would require a [review process](https://www.wikidata.org/wiki/Wikidata:Property_proposal/EU_Knowledge_Graph_ID))
+3. attaching the object to the subject through the property (new statement)
 
 ### Synchronisation with Wikidata
 
