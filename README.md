@@ -49,8 +49,8 @@ It will pull all statements from Wikidata and create a new item in the EU KG. Th
 
 ## Batch ingestion with OpenRefine
 
-See [this tutorial](refine.md).
+See this distinct [tutorial](refine.md).
 
 ## Automated ingestion with Pywikibot
 
-See the dedicated [Jupyter notebook](https://colab.research.google.com/github/SEMICeu/Wikibase/blob/main/explore.ipynb).
+Check the dedicated [Jupyter notebook](https://colab.research.google.com/github/SEMICeu/Wikibase/blob/main/explore.ipynb).
