@@ -24,11 +24,11 @@ First select the property by typing its name or PID. If the property does not ex
 
 ![New Property](/images/wb_new_prop.png)
 
-Then specify the value which can be of various types (QID, number, string...) and an optional qualifier or reference, and finally save.
+Then back on the item page, specify the value which can be of various types (QID, number, string...) and an optional qualifier or reference, and finally save.
 
 ## Batch ingestion with OpenRefine
 
-See [this tutorial](refine.md)
+See [this tutorial](refine.md).
 
 ## Automated ingestion with Pywikibot
 
