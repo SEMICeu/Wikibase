@@ -14,6 +14,12 @@ Download the [vloca.csv file](/data/vloca.csv) and load it into OpenRefine:
 
 ![OR3](/images/or3.png)
 
+You can now start exploring the VLOCA data with facets and filters. For instance, if you open the menu of the "Class" column and select Facet > Text facet, then sort by count in the left pane you will get this overview of the distribution of the classes used:
+
+![OR VLOCA classes](/images/or_vloca_class.png)
+
+Continue exploring the data to get familiar with the different data types (text, numbers, URLs, etc.).
+
 ## Reconciliation
 
 The Wikibase extension is included in OpenRefine, as you can see in the top-right corner.
