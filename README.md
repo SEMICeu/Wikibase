@@ -1,8 +1,6 @@
 # Wikidata-Wikibase Workshops
 
-Material for the SEMIC workshops on Wikidata and Wikibase
-
-## Preliminary steps
+Material for the SEMIC workshops on Wikidata and Wikibase.
 
 A playground Wikibase instance is running on <https://wikibase.semic.eu/>. Credentials will be provided during the workshop.
 
