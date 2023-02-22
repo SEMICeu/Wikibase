@@ -28,3 +28,18 @@ However, you can choose to add your own Wikibase to the list by specifying a man
 The new Wikibase will then become available in the list:
 
 ![OR SEMIC WB](/images/or_semic_wb.png)
+
+For now, let's test the reconciliation service with Wikidata. On the "Organisatie" column menu, choose Reconcile > Start reconciling... Select the Wikidata service and it will autodetect the most promising entity type, in this case [municipality of Belgium](https://www.wikidata.org/wiki/Q493522):
+
+![OR municipalities](/images/or_municipality.png)
+
+Confirm to launch the reconciliation process, then filter on the left for "matched" values:
+
+![OR matched](/images/or_matched.png)
+
+The strings "Antwerp", "Mechelen", "Aalst" etc. have now been reconciled to their respective Wikidata items and all additional information about these cities (images, geolocation, website...) can be reused.
+
+For more details on reconciliation, see [this manual](https://openrefine.org/docs/manual/reconciling).
+
+## Ingestion
+
