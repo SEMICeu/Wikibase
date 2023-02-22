@@ -29,6 +29,12 @@ For instance, we can specify that [DG CNECT](https://wikibase.semic.eu/wiki/Item
 
 ![instance of DG](/images/wb_dg.png)
 
+### Synchronisation with Wikidata
+
+To avoid redefining existing concepts from scratch in your Wikibase, you can instead pull them from Wikidata. This can be achieved thanks to the [WikibaseSync](https://github.com/the-qa-company/WikibaseSync) library.
+
+As this is technically more advanced, it will be demonstrated through a live demo. A graphical interface on top of WikibaseSync is also being developed.
+
 ## Batch ingestion with OpenRefine
 
 See [this tutorial](refine.md).
