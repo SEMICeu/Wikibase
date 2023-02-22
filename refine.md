@@ -50,3 +50,13 @@ For more details on reconciliation, see [this manual](https://openrefine.org/doc
 ## Ingestion
 
 OpenRefine can also be used to ingest data in a semi-automated way.
+
+First select the correct instance with Wikibase > Manage Wikibase instances... Then go to Wikibase > Manage Wikibase account... and specify the user admin@semicbot + the password provided:
+
+![OR bot](/images/or_semic_bot.png)
+
+You can now edit the Schema to align the columns of the CSV to the Wikibase ontology:
+
+![OR bot](/images/or_schema.png)
+
+This part requires the reconciliation service to be running but has already been demonstrated during the previous session.
