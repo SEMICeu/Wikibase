@@ -59,4 +59,4 @@ You can now edit the Schema to align the columns of the CSV to the Wikibase onto
 
 ![OR bot](/images/or_schema.png)
 
-This part requires the reconciliation service to be running but has already been demonstrated during the previous session.
+This part requires the reconciliation service to be running but has already been demonstrated during the previous session with <https://semic.the-qa-company.com/>.
