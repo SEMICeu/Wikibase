@@ -4,6 +4,8 @@ Material for the SEMIC workshops on Wikidata and Wikibase.
 
 A playground Wikibase instance is running on <https://wikibase.semic.eu/>. Credentials will be provided during the workshop.
 
+- The playground Wikibase instance is currently out of order due to technical issues. We are working to get it up and running again as soon as possible. Our apologies for the inconvenience. 
+
 ## Manual ingestion from the browser
 
 You can access a list of all available actions on <https://wikibase.semic.eu/wiki/Special:SpecialPages>. For instance, you can create a new item manually on <https://wikibase.semic.eu/wiki/Special:NewItem>:
